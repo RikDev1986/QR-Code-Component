@@ -23,8 +23,8 @@ This is a solution to the [QR code component challenge on Frontend Mentor](https
 
 ### Links
 
-- Solution URL: https://github.com/RikDev1986/qr-code-component.git
-- Live Site URL: [https://rikdev1986.github.io/qr-code-component/](https://your-live-site-url.com)
+- Solution URL: https://github.com/RikDev1986/QR-Code-Component.git
+- Live Site URL: [https://rikdev1986.github.io/QR-Code-Component/](https://your-live-site-url.com)
 
 ## My process
 
@@ -71,9 +71,7 @@ Describe how you used AI tools (if any) during this project. This helps demonstr
 
 ## Author
 
-- Website - [Add your name Rik](https://www.your-site.com)
 - Frontend Mentor - [@RikDev1986](https://www.frontendmentor.io/profile/yourusername)
-- Twitter - [@yourusername](https://www.twitter.com/yourusername)
 
 ## Acknowledgments
 
